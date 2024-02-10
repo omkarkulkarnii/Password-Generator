@@ -3,7 +3,7 @@
 Welcome to the React Multi-Length Password Generator! This simple React application utilizes three essential React hooks - `useCallback`, `useRef`, and `useEffect` - to create a dynamic and responsive password generator. The generator updates and refreshes in real-time as you modify the settings for allowed characters and numbers.
 Used Tailwind for styling..
 ## Features
-
+<!-- error -->
 - Generate passwords of varying lengths based on user input.
 - Customize password settings by allowing or disallowing specific characters and numbers.
 - Real-time updates and refreshes as you modify the settings.
