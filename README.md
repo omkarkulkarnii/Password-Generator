@@ -36,3 +36,8 @@ The codebase is organized as follows:
 1. **useCallback**: Used to memoize functions to prevent unnecessary re-renders.
 2. **useRef**: Utilized for accessing and persisting values across renders.
 3. **useEffect**: Employed for handling side effects and updating the UI dynamically.
+
+##Screenshots
+
+![image](https://github.com/omkarkulkarnii/Password-Generator/assets/139356827/9937877f-ad76-420e-88f6-2f7557d8bc91)
+![image](https://github.com/omkarkulkarnii/Password-Generator/assets/139356827/2991130b-5023-43a6-bb98-9da19ece364d)
